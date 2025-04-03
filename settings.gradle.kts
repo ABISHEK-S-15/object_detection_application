@@ -14,4 +14,4 @@ dependencyResolutionManagement {
 }
 
 rootProject.name = "Object_detection_app"
-include(":app")
+include(":app",":opencv")
